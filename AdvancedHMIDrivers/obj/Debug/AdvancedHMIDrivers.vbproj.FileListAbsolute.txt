@@ -1,0 +1,15 @@
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+C:\Users\weizh\Documents\GitHub\nextGenHMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
