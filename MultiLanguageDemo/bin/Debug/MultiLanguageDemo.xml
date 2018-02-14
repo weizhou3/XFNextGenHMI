@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MultiLanguageDemo
+</name>
+</assembly>
+<members>
+<member name="T:MultiLanguageDemo.My.Resources.EnglishText">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.EnglishText.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.EnglishText.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.EnglishText.ByeButton">
+<summary>
+  Looks up a localized string similar to Bye.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.EnglishText.HelloButton">
+<summary>
+  Looks up a localized string similar to Hello.
+</summary>
+</member>
+<member name="T:MultiLanguageDemo.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:MultiLanguageDemo.My.Resources.SpanishText">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.SpanishText.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.SpanishText.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.SpanishText.ByeButton">
+<summary>
+  Looks up a localized string similar to Adios.
+</summary>
+</member>
+<member name="P:MultiLanguageDemo.My.Resources.SpanishText.HelloButton">
+<summary>
+  Looks up a localized string similar to Hola.
+</summary>
+</member>
+</members>
+</doc>

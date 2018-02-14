@@ -110,12 +110,22 @@
     <Compile Include="FormChangeControls\MainMenuDriven\MainMenuButton.vb">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="MainForm.vb">
+    <Compile Include="Initial.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MainForm.Designer.vb">
-      <DependentUpon>MainForm.vb</DependentUpon>
+    <Compile Include="Initial.Designer.vb">
+      <DependentUpon>Initial.vb</DependentUpon>
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Language\Lang_EN.Designer.vb">
+      <DependentUpon>Lang_EN.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Language\Lang_CN.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lang_CN.resx</DependentUpon>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -132,10 +142,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Page2.Designer.vb">
-      <DependentUpon>Page2.vb</DependentUpon>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
     </Compile>
-    <Compile Include="Page2.vb">
+    <Compile Include="Main.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
@@ -143,10 +153,20 @@
     <EmbeddedResource Include="FormChangeControls\MainMenuDriven\MainMenu.resx">
       <DependentUpon>MainMenu.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MainForm.resx">
-      <DependentUpon>MainForm.vb</DependentUpon>
+    <EmbeddedResource Include="Initial.resx">
+      <DependentUpon>Initial.vb</DependentUpon>
       <SubType>Designer</SubType>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\Lang_EN.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Lang_EN.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\Lang_CN.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Lang_CN.Designer.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -154,8 +174,8 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Page2.resx">
-      <DependentUpon>Page2.vb</DependentUpon>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
@@ -196,6 +216,10 @@
     <Content Include="icons\AHMI32x32-3.ico" />
     <Content Include="icons\AHMI32x32-4.ico" />
     <Content Include="icons\Credit.txt" />
+    <None Include="Resources\PRC Flag.png" />
+    <None Include="Resources\UK Flag.png" />
+    <None Include="Resources\UK btn.png" />
+    <None Include="Resources\PRC btn.png" />
     <Content Include="SampleINIfiles\Alarms.txt" />
     <Content Include="ReadMe.txt" />
     <Content Include="ReleaseNotes399.txt" />

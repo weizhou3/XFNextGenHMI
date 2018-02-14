@@ -6,6 +6,128 @@ AdvancedHMI
 </name>
 </assembly>
 <members>
+<member name="T:MfgControl.AdvancedHMI.My.Resources.Lang_EN">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.信息">
+<summary>
+  Looks up a localized string similar to INFO.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.服务">
+<summary>
+  Looks up a localized string similar to SERVICE.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.测试">
+<summary>
+  Looks up a localized string similar to TEST.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.用户管理">
+<summary>
+  Looks up a localized string similar to USER ADMIN.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.登出">
+<summary>
+  Looks up a localized string similar to LOG OFF.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.登录">
+<summary>
+  Looks up a localized string similar to LOG ON.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.统计">
+<summary>
+  Looks up a localized string similar to STATS.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_EN.设置">
+<summary>
+  Looks up a localized string similar to SETTING.
+</summary>
+</member>
+<member name="T:MfgControl.AdvancedHMI.My.Resources.Lang_CN">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.信息">
+<summary>
+  Looks up a localized string similar to 信息.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.服务">
+<summary>
+  Looks up a localized string similar to 服务.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.测试">
+<summary>
+  Looks up a localized string similar to 测试.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.用户管理">
+<summary>
+  Looks up a localized string similar to 用户管理.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.登出">
+<summary>
+  Looks up a localized string similar to 登出.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.登录">
+<summary>
+  Looks up a localized string similar to 登录.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.统计">
+<summary>
+  Looks up a localized string similar to 统计.
+</summary>
+</member>
+<member name="P:MfgControl.AdvancedHMI.My.Resources.Lang_CN.设置">
+<summary>
+  Looks up a localized string similar to 设置.
+</summary>
+</member>
 <member name="T:MfgControl.AdvancedHMI.My.Resources.Resources">
 <summary>
   A strongly-typed resource class, for looking up localized strings, etc.

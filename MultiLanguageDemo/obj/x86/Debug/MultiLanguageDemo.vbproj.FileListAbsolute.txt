@@ -1,0 +1,12 @@
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\bin\Debug\MultiLanguageDemo.exe
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\bin\Debug\MultiLanguageDemo.pdb
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\bin\Debug\MultiLanguageDemo.xml
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.vbprojResolveAssemblyReference.cache
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.EnglishText.resources
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.Form1.resources
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.Resources.resources
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.SpanishText.resources
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.vbproj.GenerateResource.Cache
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.exe
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.xml
+C:\Users\weizh\OneDrive\Documents\GitHub\XFNextGenHMI\MultiLanguageDemo\obj\x86\Debug\MultiLanguageDemo.pdb
